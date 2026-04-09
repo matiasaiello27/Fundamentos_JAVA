@@ -27,4 +27,4 @@ El repositorio consta de 5 scripts independientes, cada uno resolviendo un probl
 
 **Matias Aiello**
 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).
-- []
+- www.linkedin.com/in/matiasAiello27
